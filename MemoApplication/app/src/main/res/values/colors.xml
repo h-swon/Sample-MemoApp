@@ -7,4 +7,18 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="silver">#FFC0C0C0</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="background_main_color">#3e3537</color>
+    <color name="background_add_color">#4A4A4A</color>
+    <color name="background_text_color">#989898</color>
+    <color name="background_top_layout_color">#DB9BCB</color>
+
+
+    <color name="text_color_hint">#B3FFFFFF</color>
+    <color name="add_button_color">#d8f125</color>
+    <color name="add_memo_button_color">#666666</color>
+    <color name="close_button_color">#414141</color>
 </resources>
